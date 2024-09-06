@@ -1,0 +1,38 @@
+---
+title: "Homework Assignment 2"
+author: "Jun Yan"
+toc: true
+number-sections: true
+highlight-style: pygments
+format: 
+  html: 
+    code-fold: true
+    html-math-method: katex
+  pdf: 
+    geometry: 
+      - top=30mm
+      - left=20mm
+##  docx: Never, unless to accommodate a collaborator
+---
+
+Step 1:
+Click on the fork button within the class notes repo,
+Create Fork
+
+Step 2:
+Clone the file to desired location on your computer. I made an extra copy on top of my clone on my desktop for easy access for this class. 
+
+Step 3:
+Under "Branches", create a new branch and name appropriately
+
+Step 4:
+Creat a wishlist.qmd file
+Add your wishes
+Add to the repository
+
+Step 5:
+Within your repository there should now be an option to create pull request for your new changes.
+Do that
+
+Issues Encountered:
+No real issues were encountered. I misclicked twice during file creation but it was more of an error on my end then with the directions or git. I would recommend git bash if comfortable. It made certain steps much easier. 
